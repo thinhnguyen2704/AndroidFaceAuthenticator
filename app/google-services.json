@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "434503350161",
+    "firebase_url": "https://face-authenticator-f3f75.firebaseio.com",
+    "project_id": "face-authenticator-f3f75",
+    "storage_bucket": "face-authenticator-f3f75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434503350161:android:7cf0a4c91cb40e24870c30",
+        "android_client_info": {
+          "package_name": "com.example.faceauthenticator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434503350161-57m1n33ti9rboni46o344hm5v8bn3rkv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.faceauthenticator",
+            "certificate_hash": "269120f6c368f6ad8d4e1146aabd57dac9c3457c"
+          }
+        },
+        {
+          "client_id": "434503350161-cdg7gq3ff8a4db3knn12bonq704k3hn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb_ZUMhmqlRTaYIDEbqS63z8HowYOFXDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434503350161-cdg7gq3ff8a4db3knn12bonq704k3hn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

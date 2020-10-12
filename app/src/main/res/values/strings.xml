@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Face Authenticator</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="face_authentication">Face Authentication</string>
+    <string name="password_authentication">Password Authentication</string>
+    <string name="enter_the_password_here">Enter the password here</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="back_to_home_screen">Back To Home Screen</string>
+    <string name="unknown">unknown</string>
+</resources>

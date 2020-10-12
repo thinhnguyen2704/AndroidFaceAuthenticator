@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="main.MainActivity">
+
+    <TextView
+        android:id="@+id/homeScrText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/home_screen"
+        android:textAlignment="center"
+        android:textSize="44sp"
+        android:textStyle="bold"
+        app:fontFamily="sans-serif-black" />
+
+    <TextView
+        android:id="@+id/error"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/homeScrText"
+        android:gravity="center_horizontal"
+        android:textAlignment="center"
+        android:textColor="#970505"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/error"
+        android:layout_marginTop="188dp"
+        android:text="@string/password_authentication"
+        android:textSize="22sp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button1"
+        android:layout_marginTop="22dp"
+        android:text="@string/face_authentication"
+        android:textSize="22sp" />
+
+</RelativeLayout>
